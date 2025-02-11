@@ -1,4 +1,4 @@
-[![GitHub followers](https://img.shields.io/github/followers/aykutsahinn?style=social)](https://github.com/aykutsahin98?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/aykutsahinn?style=social)](https://github.com/aykutsahinn?tab=followers)
 ![GitHub stars](https://img.shields.io/github/stars/aykutsahinn?style=social)
 
 
