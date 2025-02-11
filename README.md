@@ -1,5 +1,5 @@
-[![GitHub followers](https://img.shields.io/github/followers/aykutsahin98?style=social)](https://github.com/aykutsahin98?tab=followers)
-![GitHub stars](https://img.shields.io/github/stars/aykutsahin98?style=social)
+[![GitHub followers](https://img.shields.io/github/followers/aykutsahinn?style=social)](https://github.com/aykutsahin98?tab=followers)
+![GitHub stars](https://img.shields.io/github/stars/aykutsahinn?style=social)
 
 
 ## Hi, I'm Aykut Sahin 👋 
