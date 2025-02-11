@@ -7,8 +7,8 @@
 If I talk about myself, I am 24 years old and graduated from Istanbul Şehir University Computer Programming. <br> I have a youtube channel. I give information and training on software and technology on my channel.
 
 <p float="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=aykutsahin98&show_icons=true&hide=contribs,prs" alt="aykutsahin's github stats" />
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutsahin98&layout=compact" alt="My Top Langs" />
+  <img  src="https://github-readme-stats.vercel.app/api?username=aykutsahinn&show_icons=true&hide=contribs,prs" alt="aykutsahin's github stats" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=aykutsahinn&layout=compact" alt="My Top Langs" />
 </p>
 
 # Social Media
